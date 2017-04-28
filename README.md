@@ -1,4 +1,4 @@
 bobning.github.com
 ==================
 
-bobning's blog
+web front-end notebook
